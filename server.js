@@ -3,7 +3,7 @@
 
 
 const Discord = require("discord.js");
-const myid = ['673880345120079873']
+const myid = ['']
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
@@ -66,7 +66,7 @@ const client59 = new Discord.Client();
 const client60 = new Discord.Client();
 
 
-client.login ("NzQ2MTAwODcxODUwMzYwOTky.Xz7cLg.6kyieyoAL1SwFb5yJVqGNasdU6M");
+client.login ("");
 client2.login("");
 client3.login("");
 client4.login("");
